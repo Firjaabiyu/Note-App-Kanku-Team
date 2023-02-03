@@ -20,13 +20,22 @@
         app:layout_constraintVertical_bias="0.498" />
 
     <TextView
+        android:id="@+id/Titel"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Notes App"
-        android:textSize="30dp"
+        android:textSize="40dp"
         android:textAlignment="center"
         android:textColor="#064E28"
         android:fontFamily="@font/poppins_semi_bold"
         app:layout_constraintTop_toBottomOf="@id/icons"/>
-
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Kanku Team"
+        android:textSize="20dp"
+        android:textAlignment="center"
+        android:textColor="#202024"
+        android:fontFamily="@font/poppins_regular"
+        app:layout_constraintTop_toBottomOf="@id/Titel"/>
 </androidx.constraintlayout.widget.ConstraintLayout>
