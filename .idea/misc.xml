@@ -4,10 +4,14 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/layout/_bg__ui_home_ek2_shape.xml" value="0.18206521739130435" />
+        <entry key="app/src/main/res/layout/activity_create_account.xml" value="0.16847826086956522" />
         <entry key="app/src/main/res/layout/activity_example.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.17840118408203123" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2330688476562501" />
         <entry key="app/src/main/res/layout/activity_main2.xml" value="0.18206521739130435" />
         <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.13779128672745694" />
+        <entry key="app/src/main/res/layout/add_note.xml" value="0.13177083333333334" />
+        <entry key="app/src/main/res/layout/item_view.xml" value="0.15364583333333334" />
+        <entry key="app/src/main/res/layout/main_act.xml" value="0.1" />
         <entry key="app/src/main/res/layout/rectangle_1287_shape.xml" value="0.18206521739130435" />
       </map>
     </option>
