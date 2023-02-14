@@ -10,7 +10,7 @@ import android.widget.Toast;
 
 import com.google.android.material.button.MaterialButton;
 
-public class addnote extends AppCompatActivity {
+public class AddNoteActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
